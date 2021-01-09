@@ -15,32 +15,32 @@ De acuerdo con este hadith esta aplicación insha Allah te hará algunas cosas m
 
 Funciones
 
-    Calendario de diferentes tiempos de oración
-        Diyanet.gov.tr
-        IGMG.org
-        NamazVakti.com
-        Semerkandtakvimi.com
-        Habous.gov.ma
-        e-solat.gov.my
-        Kemenag.go.id
-        Londonprayertimes.com
-        Csv
-        Métodos calculados (sin conexión)
-    Ubicación automática
-    Tiempos mundiales de oración
-    Lee el Adhan para los tiempos de oración
-    Cambia automáticamente (o por widget) a Silencioso
-    Notificación con antelación para los tiempos de oración
-    Indicador del tiempo de oración de Makruh
-    Widget / Notificación
-    Brújula hacia la Qibla (2D/3D/Mapa/Tiempo)
-    99 Nombres de Allah
-    Fiestas religiosas con descripciones
-    Dhikr después de la oración
-    Colección de Hadith de Sahih al Bujari
-    Contador Dhikr
-    Contador para oraciones olvidadas
-    Gran conjunto de sonidos descargables (Adhan, Du'a, etc.)
+- Calendario de diferentes tiempos de oración
+    -   Diyanet.gov.tr
+    -   IGMG.org
+    -   NamazVakti.com
+    -   Semerkandtakvimi.com
+    -   Habous.gov.ma
+    -   e-solat.gov.my
+    -   Kemenag.go.id
+    -   Londonprayertimes.com
+    -   Csv
+    -   Métodos de calculo (sin conexión)
+- Ubicación automática
+- Tiempos mundiales de oración
+- Lee el Adhan para los tiempos de oración
+- Cambia automáticamente (o por widget) a Silencioso
+- Notificación con antelación para los tiempos de oración
+- Indicador del tiempo de oración de Makruh
+- Widget / Notificación
+- Brújula hacia la Qibla (2D/3D/Mapa/Tiempo)
+- 99 Nombres de Allah
+- Fiestas religiosas con descripciones
+- Dhikr después de la oración
+- Colección de Hadith de Sahih al Bujari
+- Contador Dhikr
+- Contador para oraciones olvidadas
+- Gran conjunto de sonidos descargables (Adhan, Du'a, etc.)
 
 
 
