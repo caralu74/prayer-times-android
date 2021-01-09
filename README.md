@@ -1,14 +1,49 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/prayer-times-android/localized.svg)](https://crowdin.com/project/prayer-times-android)
 
 # namaz-vakti-android
-A useful Application with a set of tools needed by any muslim.
+Una aplicación útil con un conjunto de herramientas necesarias para cualquier musulmán.
 
 Play Store: https://play.google.com/store/apps/details?id=com.metinkale.prayer
 
-If you want to help me translating this Application into other languages contact me under metinkale38[at]gmail.com or directly start translating at 
-https://crowdin.com/project/prayer-times-android
+Si quieres ayudarme a traducir esta Aplicación a otros idiomas contáctame bajo metinkale38[at]gmail.com o directamente comienza a traducir en https://crowdin.com/project/prayer-times-android
 
-## DESCRIPTION
+## DESCRIPCIóN
+
+### Español
+يسروا ولا تعسروا, وبشروا ولا تنفروا   "Haz las cosas fáciles para la gente, y no se las pongas difíciles, y haz que se calmen y no los repelan." (Hadith)
+De acuerdo con este hadith esta aplicación insha Allah te hará algunas cosas más fáciles. Con esta aplicación tienes algunas herramientas útiles necesarias por cualquier musulmán en el bolsillo.
+
+Funciones
+
+    Calendario de diferentes tiempos de oración
+        Diyanet.gov.tr
+        IGMG.org
+        NamazVakti.com
+        Semerkandtakvimi.com
+        Habous.gov.ma
+        e-solat.gov.my
+        Kemenag.go.id
+        Londonprayertimes.com
+        Csv
+        Métodos calculados (sin conexión)
+    Ubicación automática
+    Tiempos mundiales de oración
+    Lee el Adhan para los tiempos de oración
+    Cambia automáticamente (o por widget) a Silencioso
+    Notificación con antelación para los tiempos de oración
+    Indicador del tiempo de oración de Makruh
+    Widget / Notificación
+    Brújula hacia la Qibla (2D/3D/Mapa/Tiempo)
+    99 Nombres de Allah
+    Fiestas religiosas con descripciones
+    Dhikr después de la oración
+    Colección de Hadith de Sahih al Bujari
+    Contador Dhikr
+    Contador para oraciones olvidadas
+    Gran conjunto de sonidos descargables (Adhan, Du'a, etc.)
+
+
+
 ### English
 يسروا ولا تعسروا, وبشروا ولا تنفروا
 “Make things easy for the people, and do not make it difficult for them, and make them calm and do not repel them. (Hadith)
